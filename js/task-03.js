@@ -19,6 +19,6 @@ const galleryContent = images.map((image) => `
  </li>
 `).join('');
 gallery.insertAdjacentHTML('beforeend', galleryContent);
-(498 kB)
+(498 KB)
 (332 kB)
 (211 kB)
